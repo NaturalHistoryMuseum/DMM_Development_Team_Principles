@@ -15,7 +15,7 @@ Be seen as a trusted voice of authority in the design and development of our dig
 -	Be involved in the design process to drive meaningful yet realistic user journeys
 -	Work to a consistent set of standards to ensure parity across our codebase.  For example, tests should be written and task runners such as Gulp or Grunt should be used
 - All code should be set up for testing and accessibility
-- Every code repo should have a READEME.md, which includes a set up guide. New platforms or systems should have an associated environment guide.
+- Every code repo should have a README.md, which includes a set up guide. New platforms or systems should have an associated environment guide.
 -	Regular pair programming, code reviews, and opportunities to share knowledge, for example through dev meetings, hack days, meetups, presentations and blog posts
 -	Time set aside for learning and development, and training
 - Agile and flexible methodologies should be undertaken, with a main focus on the product
