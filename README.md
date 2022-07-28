@@ -2,13 +2,9 @@
 
 ## Introduction
 
-The Development team in the Digital Media & Marketing department currently consists of 6 people working across 3 product groups: Growth, Visit and Commercial. Each product group is a cross-disciplinary team and we work on different projects and platforms but there are common themes that span across our work. We recently spent some time discussing and brainstorming these in our team meetings, broadly focussing on:
+TS (Technical Services) and CDMP (Communications, Digital Media and Publishing) cooperate together to form 5 product teams: Commercial, Connect, eCommerce, Participate and Visit. These are cross-disciplinary teams that focus on different sections of the digital experience for members of the public.  Additionally, there are numerous data services and apps used by the Science Department teams that do not fall under the care of the product teams.
 
-* how we make things (and how we want to make things)
-* how we function as a dev team (and how we want to function as a dev team)
-* what we want to achieve through our work for the Museum
-
-We then talked about how we can map our thoughts back to the core values of the Natural History Museum: Expert, Relevant, Inspiring and Accessible. The below is what the team came up with!
+This document was originally published 5 years ago, and with personel changes and restructure of the teams, it seems a perfect time to revist and refresh the principles with which we approach work, an dhow they fit into the current museum values: we are ambitious, we are curious, we share the wonder, we are pioneering, we team up, we act with pace.
 
 ### Expert
 Be seen as a trusted voice of authority in the design and development of our digital world, and add value to the lives and  experiences of others through our work
